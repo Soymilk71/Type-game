@@ -1,0 +1,5 @@
+Dit is een typ-spel wat ik gemaakt heb met JavaScript, TailwindCSS, en Laravel. Zoals je ziet werkt het prima! 
+Ik heb er lang over gedaan om het onder de knie te krijgen, en daarom mag je wat mij betreft nog wel even door typen :). 
+Het werkt in principe heel erg simpel. Ik heb een text geschreven in een apart .txt bestand en die roep ik op in het javascript bestand. 
+Dat is wat je nu typt! Voor de rest check je of het wel correct is en zo laad je de juiste kleur in.
+Het kan zijn dat je een foutje maakt, en dat is niet erg, ik ben ook niet perfect. Dan kan je gewoon verder typen, maar het gaat wel ten koste van je score.
